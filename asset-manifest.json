@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Budget-eye/static/css/main.4b998ee4.css",
+    "main.js": "/Budget-eye/static/js/main.bd3624d6.js",
+    "index.html": "/Budget-eye/index.html",
+    "main.4b998ee4.css.map": "/Budget-eye/static/css/main.4b998ee4.css.map",
+    "main.bd3624d6.js.map": "/Budget-eye/static/js/main.bd3624d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b998ee4.css",
+    "static/js/main.bd3624d6.js"
+  ]
+}
